@@ -1,0 +1,3 @@
+URL : database-asm2.ccotpmfbubkv.us-east-1.rds.amazonaws.com
+Username : asm2 , Password : asm2asm2
+Database Name : dep304x_asm2
